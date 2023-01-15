@@ -9,6 +9,7 @@ body{
     margin: 0 auto;
     width: 575px;
     border: 2px solid black;
+    box-sizing: border-box;
 }
 header{
     display: flex;
@@ -19,6 +20,7 @@ header{
     border-bottom: 1px solid #C6C6C6;
     padding: 17px 15px;
     border: 2px solid black;
+    box-sizing: border-box;
     
 }
 .profile-foto{
@@ -37,12 +39,14 @@ header{
     padding: 7px 15px;
     width: 200px;
     border: 2px solid black;
+    box-sizing: border-box;
 
 }
 .post{
     width: 575px;
     height: 575px;
     border: 2px solid black;
+    box-sizing: border-box;
 }
 .post-features{
 
