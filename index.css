@@ -20,10 +20,10 @@ header{
 .profile-foto{
     width: 35px;
     border-radius: 50%;
-    height: 35px;
+    height: 40px;
 }
 .foto{
-    width: 127px;
-    height: 33px;
+    width: auto;
+    height: 55px;
     margin: 0;
 }
