@@ -28,6 +28,7 @@ header{
     margin: 0;
 }
 .mini-prfl{
+    display: flex;
 
 }
 .post{
