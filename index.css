@@ -14,7 +14,7 @@ header{
     width: 575px;
     height: 67px;
     background-color: #FFFFFF;
-    border: 1px solid #C6C6C6;
+    border-bottom: 1px solid #C6C6C6;
     padding: 17px 15px;
 }
 .profile-foto{
