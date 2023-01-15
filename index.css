@@ -29,6 +29,7 @@ header{
 }
 .mini-prfl{
     display: flex;
+    justify-content: space-between;
     padding: 7px 15px;
 
 }
