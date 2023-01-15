@@ -15,15 +15,15 @@ header{
     height: 67px;
     background-color: #FFFFFF;
     border: 1px solid #C6C6C6;
-    padding: 8px 13px 6px 13px;
+    padding: 17px 15px;
 }
 .profile-foto{
     width: 35px;
     border-radius: 50%;
-    height: 40px;
+    height: 35px;
 }
 .foto{
-    width: auto;
-    height: 55px;
+    width: 127px;
+    height: 33px;
     margin: 0;
 }
