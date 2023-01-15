@@ -20,7 +20,6 @@ header{
     box-sizing: border-box;
     padding: 5px 15px 0;
     position: fixed;
-    z-index: 5000;
     margin-top: 0;
     
 }
