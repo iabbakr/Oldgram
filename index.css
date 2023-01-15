@@ -2,6 +2,7 @@ body{
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 16px;
     margin: 0;
+    box-sizing: border-box;
 }
 .container{
     display:block;
@@ -18,7 +19,7 @@ header{
     border-bottom: 1px solid #C6C6C6;
     padding: 17px 15px;
     border: 2px solid black;
-    box-sizing: border-box;
+    
 }
 .profile-foto{
     width: 35px;
