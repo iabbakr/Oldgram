@@ -57,6 +57,11 @@ header{
     width: 575px;
     height: 575px;
 }
+.icons{
+    display: flex;
+    justify-content: space-between;
+    
+}
 p{
     margin: 0;
 
