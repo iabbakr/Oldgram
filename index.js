@@ -28,3 +28,8 @@ const posts = [
     }
 ]
 
+let likeEl = document.getElementById("like-el");
+
+let likes = post.liks;
+
+likeEl.textContent = likes;
