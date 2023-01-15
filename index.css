@@ -9,7 +9,7 @@ body{
     margin: 0 auto;
     width: 575px;
     box-sizing: border-box;
-    border: 1px solid red;
+    border: 1px transparent;
 }
 header{
     display: flex;
