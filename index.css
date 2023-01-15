@@ -17,8 +17,7 @@ header{
     width: 575px;
     height: 67px;
     background-color: #FFFFFF;
-    border-bottom: 2px solid #C6C6C6;
-    border: 2px solid black;
+    border-bottom: 1px solid #C6C6C6;
     box-sizing: border-box;
     padding: 5px 15px 0;
     
@@ -38,7 +37,7 @@ header{
     display: flex;
     justify-content: space-between;
     padding: 7px 15px;
-    width: 200px;
+    width: 220px;
     border: 2px solid black;
     box-sizing: border-box;
 
