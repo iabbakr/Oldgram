@@ -60,7 +60,13 @@ header{
 .icons{
     display: flex;
     justify-content: space-between;
+    width: 100px;
+    height: 22px;
     
+}
+.icon{
+
+
 }
 p{
     margin: 0;
