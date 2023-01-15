@@ -27,6 +27,7 @@ header{
     width: 35px;
     border-radius: 50%;
     height: 40px;
+    margin: 0;
 }
 .foto{
     width: auto;
