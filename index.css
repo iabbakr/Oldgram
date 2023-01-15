@@ -6,7 +6,7 @@ body{
 .container{
     display:block;
     margin: 0 auto;
-    width: 300px;
+    width: 575px;
 }
 header{
     display: flex;
@@ -26,4 +26,13 @@ header{
     width: auto;
     height: 55px;
     margin: 0;
+}
+.mini-prfl{
+
+}
+.post{
+
+}
+.post-features{
+
 }
