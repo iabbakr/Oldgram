@@ -36,6 +36,11 @@ header{
 .post-features{
 
 }
+.mini-prfl{
+    width: 35px;
+    height: 35px;
+}
 .post-foto{
     width: auto;
+    height: 475;
 }
