@@ -11,7 +11,7 @@ body{
 header{
     display: flex;
     justify-content: space-between;
-    width: 675px;
+    width: 575px;
     height: 67px;
     background-color: #FFFFFF;
     border-bottom: 1px solid #C6C6C6;
