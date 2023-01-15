@@ -9,7 +9,8 @@ body{
     width: 300px;
 }
 header{
-    display: inline-block;
+    display: flex;
+    justify-content: space-between;
     width: 675px;
     height: 67px;
     background-color: #FFFFFF;
