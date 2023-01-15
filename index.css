@@ -3,7 +3,6 @@ body{
     font-size: 16px;
     margin: 0;
     box-sizing: border-box;
-    bo
 }
 .container{
     display:block;
@@ -90,5 +89,5 @@ section{
     margin-bottom:10px;
 }
 main{
-    margin-top: 100px;
+    margin-top: 80px;
 }
