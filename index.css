@@ -19,6 +19,8 @@ header{
     background-color: #FFFFFF;
     border-bottom: 2px solid #C6C6C6;
     top: 15px;
+    left:10px;
+    right: 10px;
     border: 2px solid black;
     box-sizing: border-box;
     
