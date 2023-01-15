@@ -29,6 +29,7 @@ header{
 }
 .mini-prfl{
     display: flex;
+    padding: 7px 15px;
 
 }
 .post{
@@ -38,6 +39,7 @@ header{
 
 }
 .mini-foto{
+    border-radius: 50%;
     width: 35px;
     height: 35px;
 }
